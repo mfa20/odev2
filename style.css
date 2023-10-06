@@ -1,0 +1,47 @@
+body{  
+    text-align: center; 
+}
+.main{
+    margin-left: 5px;
+    
+    
+}
+.tbl1{
+    text-align: center;
+}
+.tbl2{
+    background-color: #EEEEEE;
+    height: 65px;
+    margin-left: 63px;
+    margin-right: 63px;
+}
+.tbl3{
+    text-align: center;
+    background-color: #7EE5DA;
+    width: 500px;
+    height: 75px;
+    float: left;
+    margin-left: 63px;
+}
+.tbl4{
+    text-align: center;
+    background-color: #70CCC2;
+    width: 274px;
+    height: 75px;
+    float: left;
+}
+.tbl5{
+    text-align: center;
+    background-color: #62B3AA;
+    width: 615px;
+    height: 75px;
+    float: left;
+    font-size: small;
+}
+.end{
+    margin-top: 95px;
+}
+
+
+
+
